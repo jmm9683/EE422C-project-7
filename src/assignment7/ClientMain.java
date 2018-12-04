@@ -1,4 +1,12 @@
-
+/* CHATROOM <ClientMain.java>
+ * EE422C Project 7 submission by
+ * Replace <...> with your actual data.
+ * Jake Morrissey
+ * jmm9683
+ * 16345
+ * Slip days used: 0
+ * Fall 2018
+ */
 package assignment7;
 
 
